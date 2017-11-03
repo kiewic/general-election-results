@@ -25,7 +25,7 @@ function printCounties() {
 
 function printStates() {
     const fd = fs.openSync('./temp/state.csv', 'w');
-    fs.writeSync(fd, `id,st_name\n`);
+    fs.writeSync(fd, `st_id,st_name\n`);
     printEnData(fd, 'state.');
     fs.closeSync(fd);
 }
