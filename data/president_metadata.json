@@ -1,0 +1,1342 @@
+{
+    "date": "2016-11-08",
+    "timestamp": "2016-11-08T06:31:50.073Z",
+    "cands": {
+        "US62535": {
+            "fn": "Tom Hoefling",
+            "py": "AmP"
+        },
+        "US65505": {
+            "fn": "Peter Skewes",
+            "py": "Amr"
+        },
+        "US65775": {
+            "fn": "Evan McMullin",
+            "py": "BFA"
+        },
+        "US59414": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "US64568": {
+            "fn": "Scott Copeland",
+            "py": "CST"
+        },
+        "US1746": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "US8639": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "US895": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "US65819": {
+            "fn": "Rocky Giordani",
+            "py": "IAP"
+        },
+        "US14237": {
+            "fn": "Kyle Kopitke",
+            "py": "IAP"
+        },
+        "US56224": {
+            "fn": "Richard Duncan",
+            "py": "Ind"
+        },
+        "US64983": {
+            "fn": "Lynn Kahn",
+            "py": "Ind"
+        },
+        "US64977": {
+            "fn": "Jim Hedges",
+            "py": "Ind"
+        },
+        "US31708": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "US26924": {
+            "fn": "Dan Vacek",
+            "py": "LMN"
+        },
+        "US64542": {
+            "fn": "Rocky De La Fuente",
+            "py": "NPA"
+        },
+        "US100013": {
+            "fn": " None of these candidates",
+            "py": "NPD"
+        },
+        "US25743": {
+            "fn": "Jerry White",
+            "py": "Oth"
+        },
+        "US65626": {
+            "fn": "Rod Silva",
+            "py": "Oth"
+        },
+        "US65774": {
+            "fn": "Michael Maturen",
+            "py": "Oth"
+        },
+        "US62539": {
+            "fn": "Frank Atwood",
+            "py": "Oth"
+        },
+        "US65809": {
+            "fn": "Princess Jacob",
+            "py": "Oth"
+        },
+        "US59661": {
+            "fn": "Bradford Lyttle",
+            "py": "PCF"
+        },
+        "US7623": {
+            "fn": "Gloria La Riva",
+            "py": "PFP"
+        },
+        "US65684": {
+            "fn": "Emidio Soltysik",
+            "py": "SPU"
+        },
+        "US65352": {
+            "fn": "Alyson Kennedy",
+            "py": "SWP"
+        },
+        "US65624": {
+            "fn": "Laurence Kotlikoff",
+            "py": "Una"
+        },
+        "US65818": {
+            "fn": "Mike Smith",
+            "py": "Una"
+        },
+        "US65625": {
+            "fn": "Joseph Maldonado",
+            "py": "Una"
+        },
+        "US65639": {
+            "fn": "Ryan Scott",
+            "py": "Una"
+        },
+        "US65500": {
+            "fn": "Chris Keniston",
+            "py": "VET"
+        },
+        "US11076": {
+            "fn": "Monica Moorehead",
+            "py": "WW"
+        },
+        "AK6639": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "AK6637": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "AK6638": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "AK6642": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "AK6641": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "AK6648": {
+            "fn": "Rocky De La Fuente",
+            "py": "NPA"
+        },
+        "AL5065": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "AL5063": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "AL5178": {
+            "fn": "Gary Johnson",
+            "py": "Ind"
+        },
+        "AL5177": {
+            "fn": "Jill Stein",
+            "py": "Ind"
+        },
+        "AR12874": {
+            "fn": "Evan McMullin",
+            "py": "BFA"
+        },
+        "AR12873": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "AR12691": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "AR12686": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "AR12876": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "AR12843": {
+            "fn": "Jim Hedges",
+            "py": "Ind"
+        },
+        "AR12869": {
+            "fn": "Lynn Kahn",
+            "py": "Ind"
+        },
+        "AR12867": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "AZ9678": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "AZ9677": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "AZ9676": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "AZ9675": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "CA20374": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "CA20820": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "CA20882": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "CA20880": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "CA20883": {
+            "fn": "Gloria La Riva",
+            "py": "PFP"
+        },
+        "CO12836": {
+            "fn": "Rocky De La Fuente",
+            "py": "ADP"
+        },
+        "CO12837": {
+            "fn": "Tom Hoefling",
+            "py": "AmP"
+        },
+        "CO12846": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "CO12800": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "CO12802": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "CO12835": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "CO12844": {
+            "fn": "Kyle Kopitke",
+            "py": "IAP"
+        },
+        "CO12834": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "CO12840": {
+            "fn": "Michael Maturen",
+            "py": "Oth"
+        },
+        "CO12821": {
+            "fn": "Frank Atwood",
+            "py": "Oth"
+        },
+        "CO12829": {
+            "fn": "Rod Silva",
+            "py": "Oth"
+        },
+        "CO12839": {
+            "fn": "Bradford Lyttle",
+            "py": "PCF"
+        },
+        "CO12823": {
+            "fn": "Jim Hedges",
+            "py": "Pro"
+        },
+        "CO12838": {
+            "fn": "Gloria La Riva",
+            "py": "PSL"
+        },
+        "CO12843": {
+            "fn": "Emidio Soltysik",
+            "py": "SPU"
+        },
+        "CO12825": {
+            "fn": "Alyson Kennedy",
+            "py": "SWP"
+        },
+        "CO12827": {
+            "fn": "Joseph Maldonado",
+            "py": "Una"
+        },
+        "CO12828": {
+            "fn": "Ryan Scott",
+            "py": "Una"
+        },
+        "CO12826": {
+            "fn": "Laurence Kotlikoff",
+            "py": "Una"
+        },
+        "CO12841": {
+            "fn": "Evan McMullin",
+            "py": "Una"
+        },
+        "CO12842": {
+            "fn": "Mike Smith",
+            "py": "Una"
+        },
+        "CO12824": {
+            "fn": "Chris Keniston",
+            "py": "VET"
+        },
+        "CT20519": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "CT20520": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "CT20552": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "CT20553": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "DC10251": {
+            "fn": "Jill Stein",
+            "py": "DCG"
+        },
+        "DC10218": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "DC10219": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "DC10099": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "DE10611": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "DE10612": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "DE10614": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "DE10613": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "FL21365": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "FL21372": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "FL21369": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "FL21368": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "FL21370": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "FL21371": {
+            "fn": "Rocky De La Fuente",
+            "py": "RP"
+        },
+        "GA20739": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "GA20740": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "GA20764": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "HI19180": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "HI19147": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "HI19148": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "HI19165": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "HI19164": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "IA22632": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "IA22626": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "IA22627": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "IA22634": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "IA22648": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "IA22646": {
+            "fn": "Dan Vacek",
+            "py": "LMN"
+        },
+        "IA22647": {
+            "fn": "Lynn Kahn",
+            "py": "Oth"
+        },
+        "IA22636": {
+            "fn": "Rocky De La Fuente",
+            "py": "PEC"
+        },
+        "IA22645": {
+            "fn": "Evan McMullin",
+            "py": "PEC"
+        },
+        "IA22635": {
+            "fn": "Gloria La Riva",
+            "py": "PSL"
+        },
+        "ID18729": {
+            "fn": "Scott Copeland",
+            "py": "CST"
+        },
+        "ID18717": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "ID18718": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "ID18733": {
+            "fn": "Jill Stein",
+            "py": "Ind"
+        },
+        "ID18730": {
+            "fn": "Darrell Castle",
+            "py": "Ind"
+        },
+        "ID18731": {
+            "fn": "Rocky De La Fuente",
+            "py": "Ind"
+        },
+        "ID18732": {
+            "fn": "Evan McMullin",
+            "py": "Ind"
+        },
+        "ID18728": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "IL26524": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "IL26541": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "IL27489": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "IL27491": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "IN21521": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "IN21368": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "IN21585": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "KS6602": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "KS6603": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "KS6607": {
+            "fn": "Jill Stein",
+            "py": "Ind"
+        },
+        "KS6604": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "KY5627": {
+            "fn": "Rocky De La Fuente",
+            "py": "ADP"
+        },
+        "KY5431": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "KY5609": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "KY5623": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "KY5628": {
+            "fn": "Evan McMullin",
+            "py": "Ind"
+        },
+        "KY5622": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "LA24351": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "LA24352": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "LA24459": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "LA24455": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "LA24462": {
+            "fn": "Chris Keniston",
+            "py": "Oth"
+        },
+        "LA24461": {
+            "fn": "Darrell Castle",
+            "py": "Oth"
+        },
+        "LA24463": {
+            "fn": "Evan McMullin",
+            "py": "Oth"
+        },
+        "LA24363": {
+            "fn": "Alyson Kennedy",
+            "py": "Oth"
+        },
+        "LA24457": {
+            "fn": "Laurence Kotlikoff",
+            "py": "Oth"
+        },
+        "LA24454": {
+            "fn": "Gloria La Riva",
+            "py": "Oth"
+        },
+        "LA24460": {
+            "fn": "Tom Hoefling",
+            "py": "Oth"
+        },
+        "LA24456": {
+            "fn": "Princess Jacob",
+            "py": "Oth"
+        },
+        "LA24458": {
+            "fn": "Jerry White",
+            "py": "Oth"
+        },
+        "MA33825": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "MA33826": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "MA33829": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "MA33828": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "MD30296": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "MD30316": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "MD30611": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "MD30592": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "ME29634": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "ME29633": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "ME29691": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "ME29692": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "MI35598": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "MI35597": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "MI35630": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "MI35599": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "MI35601": {
+            "fn": "Emidio Soltysik",
+            "py": "NLP"
+        },
+        "MI35600": {
+            "fn": "Darrell Castle",
+            "py": "UST"
+        },
+        "MN33338": {
+            "fn": "Rocky De La Fuente",
+            "py": "ADP"
+        },
+        "MN33337": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "MN33326": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "MN33325": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "MN33332": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "MN33336": {
+            "fn": "Evan McMullin",
+            "py": "Inp"
+        },
+        "MN33333": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "MN33331": {
+            "fn": "Dan Vacek",
+            "py": "LMN"
+        },
+        "MN33327": {
+            "fn": "Alyson Kennedy",
+            "py": "SWP"
+        },
+        "MO9231": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "MO9227": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "MO9228": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "MO9233": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "MO9230": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "MS31949": {
+            "fn": "Rocky De La Fuente",
+            "py": "ADP"
+        },
+        "MS31953": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "MS31893": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "MS31907": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "MS31947": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "MS31948": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "MS31950": {
+            "fn": "Jim Hedges",
+            "py": "Pro"
+        },
+        "MT34820": {
+            "fn": "Rocky De La Fuente",
+            "py": "ADP"
+        },
+        "MT34817": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "MT34536": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "MT34821": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "MT34819": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "NC43782": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "NC43783": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "NC43784": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "ND40685": {
+            "fn": "Rocky De La Fuente",
+            "py": "ADP"
+        },
+        "ND40684": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "ND40670": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "ND40669": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "ND40686": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "ND40683": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "NE31580": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "NE31489": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "NE31497": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "NE31594": {
+            "fn": "Jill Stein",
+            "py": "PEC"
+        },
+        "NH47143": {
+            "fn": "Rocky De La Fuente",
+            "py": "ADP"
+        },
+        "NH47145": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "NH47146": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "NH47142": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "NH47144": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "NJ38681": {
+            "fn": "Rocky De La Fuente",
+            "py": "ADP"
+        },
+        "NJ38628": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "NJ38597": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "NJ38596": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "NJ38678": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "NJ38679": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "NJ38672": {
+            "fn": "Gloria La Riva",
+            "py": "PSL"
+        },
+        "NJ38629": {
+            "fn": "Alyson Kennedy",
+            "py": "SWP"
+        },
+        "NJ38631": {
+            "fn": "Monica Moorehead",
+            "py": "WW"
+        },
+        "NM38508": {
+            "fn": "Rocky De La Fuente",
+            "py": "ADP"
+        },
+        "NM38507": {
+            "fn": "Evan McMullin",
+            "py": "BFA"
+        },
+        "NM38495": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "NM38383": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "NM38386": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "NM38499": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "NM38493": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "NM38500": {
+            "fn": "Gloria La Riva",
+            "py": "PSL"
+        },
+        "NV36463": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "NV36462": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "NV36578": {
+            "fn": "Darrell Castle",
+            "py": "IAP"
+        },
+        "NV36576": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "NV36554": {
+            "fn": " None of these candidates",
+            "py": "NPD"
+        },
+        "NV36577": {
+            "fn": "Rocky De La Fuente",
+            "py": "NPD"
+        },
+        "NY79226": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "NY79227": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "NY79230": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "NY79231": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "OH45559": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "OH45853": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "OH45866": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "OH45869": {
+            "fn": "Richard Duncan",
+            "py": "Ind"
+        },
+        "OH45870": {
+            "fn": "Gary Johnson",
+            "py": "Ind"
+        },
+        "OK45320": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "OK45322": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "OK45321": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "OR5311": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "OR5135": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "OR5322": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "OR5318": {
+            "fn": "Jill Stein",
+            "py": "PAG"
+        },
+        "PA51179": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "PA50798": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "PA50814": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "PA51178": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "PA51180": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "RI46042": {
+            "fn": "Rocky De La Fuente",
+            "py": "ADP"
+        },
+        "RI46044": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "RI46040": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "RI46043": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "RI46041": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "SC48274": {
+            "fn": "Peter Skewes",
+            "py": "Amr"
+        },
+        "SC48275": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "SC48235": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "SC48236": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "SC48253": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "SC48276": {
+            "fn": "Evan McMullin",
+            "py": "Inp"
+        },
+        "SC48251": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "SD47832": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "SD47679": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "SD47682": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "SD47831": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "TN49748": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "TN49749": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "TN49775": {
+            "fn": "Gary Johnson",
+            "py": "Ind"
+        },
+        "TN49778": {
+            "fn": "Alyson Kennedy",
+            "py": "Ind"
+        },
+        "TN49779": {
+            "fn": "Mike Smith",
+            "py": "Ind"
+        },
+        "TN49776": {
+            "fn": "Rocky De La Fuente",
+            "py": "Ind"
+        },
+        "TN49777": {
+            "fn": "Jill Stein",
+            "py": "Ind"
+        },
+        "TX59317": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "TX60390": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "TX60509": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "TX60510": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "UT55312": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "UT55310": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "UT55311": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "UT55319": {
+            "fn": "Rocky Giordani",
+            "py": "IAP"
+        },
+        "UT55313": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "UT55315": {
+            "fn": "Alyson Kennedy",
+            "py": "Una"
+        },
+        "UT55316": {
+            "fn": "Evan McMullin",
+            "py": "Una"
+        },
+        "UT55314": {
+            "fn": "Rocky De La Fuente",
+            "py": "Una"
+        },
+        "UT55317": {
+            "fn": "Monica Moorehead",
+            "py": "Una"
+        },
+        "UT55318": {
+            "fn": "Jill Stein",
+            "py": "Una"
+        },
+        "VA51372": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "VA51373": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "VA51417": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "VA51416": {
+            "fn": "Evan McMullin",
+            "py": "Ind"
+        },
+        "VA51415": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "VT52771": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "VT52770": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "VT52773": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "VT52774": {
+            "fn": "Rocky De La Fuente",
+            "py": "Ind"
+        },
+        "VT52776": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "VT52772": {
+            "fn": "Gloria La Riva",
+            "py": "LUn"
+        },
+        "WA8261": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "WA8224": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "WA8221": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "WA8223": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "WA8227": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "WA8222": {
+            "fn": "Gloria La Riva",
+            "py": "PSL"
+        },
+        "WA8220": {
+            "fn": "Alyson Kennedy",
+            "py": "SWP"
+        },
+        "WI27070": {
+            "fn": "Rocky De La Fuente",
+            "py": "ADP"
+        },
+        "WI27071": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "WI27063": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "WI27062": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "WI27072": {
+            "fn": "Jill Stein",
+            "py": "Grn"
+        },
+        "WI27069": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "WI27073": {
+            "fn": "Monica Moorehead",
+            "py": "WW"
+        },
+        "WV57783": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "WV57731": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "WV57048": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "WV57732": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        },
+        "WV57767": {
+            "fn": "Jill Stein",
+            "py": "Mnt"
+        },
+        "WY55031": {
+            "fn": "Darrell Castle",
+            "py": "CST"
+        },
+        "WY55028": {
+            "fn": "Hillary Clinton",
+            "py": "Dem"
+        },
+        "WY55029": {
+            "fn": "Donald Trump",
+            "py": "GOP"
+        },
+        "WY55032": {
+            "fn": "Rocky De La Fuente",
+            "py": "Ind"
+        },
+        "WY55033": {
+            "fn": "Jill Stein",
+            "py": "Ind"
+        },
+        "WY55030": {
+            "fn": "Gary Johnson",
+            "py": "Lib"
+        }
+    }
+}
