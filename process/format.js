@@ -16,21 +16,21 @@ function printEnData(fd, prefix) {
     }
 }
 
-function printCounties() {
+function printCountiesCsv() {
     const fd = fs.openSync('./temp/county.csv', 'w');
     fs.writeSync(fd, `id,county_name\n`);
     printEnData(fd, 'county.');
     fs.closeSync(fd);
 }
 
-function printStates() {
+function printStatesCsv() {
     const fd = fs.openSync('./temp/state.csv', 'w');
     fs.writeSync(fd, `st_id,st_name\n`);
     printEnData(fd, 'state.');
     fs.closeSync(fd);
 }
 
-function printCandidates() {
+function printCandidatesCsv() {
     const presidentMetadata = JSON.parse(fs.readFileSync('../data/president_metadata.json', 'utf8'));
     const fd = fs.openSync('./temp/candidate.csv', 'w');
     fs.writeSync(fd, `cand_id,cand_name,cand_party\n`);
@@ -41,7 +41,7 @@ function printCandidates() {
     fs.closeSync(fd);
 }
 
-function printVotes() {
+function printVotesCsv() {
     const presidentData = JSON.parse(fs.readFileSync('../data/president.json', 'utf8'));
     const fd = fs.openSync('./temp/vote.csv', 'w');
     
@@ -83,7 +83,59 @@ function printVotes() {
     fs.closeSync(fd);
 }
 
-printCounties();
-printStates();
-printCandidates();
-printVotes();
+function printJson() {
+    // Load all source data
+    const presidentMetadata = JSON.parse(fs.readFileSync('../data/president_metadata.json', 'utf8'));
+    const presidentData = JSON.parse(fs.readFileSync('../data/president.json', 'utf8'));
+
+    // Write state data to states.json
+    const states = [];
+    for (const president of presidentData.results) {
+        // Ignore country entry
+        if (president.id === president.st && president.id !== 'US') {
+            president.state = enData.en['state.' + president.st];
+            delete president.id;
+
+            if (president.lead.length !== 1) {
+                throw new Error(president.lead);
+            }
+            const leadId = president.lead[0];
+            delete president.lead;
+
+            let i = 0;
+            const cands = [];
+            for (let id of president.cand) {
+                const cand = presidentMetadata.cands[id];
+                cands.push({
+                    id: id,
+                    name: cand.fn,
+                    party: cand.py,
+                    lead: id === leadId,
+                    vote: president.vote[i],
+                    vp: president.vp[i],
+                    ev: president.ev[i],
+                });
+                i++;
+            }
+            president.cands = cands;
+            delete president.cand;
+            delete president.vote;
+            delete president.vp;
+            delete president.ev;
+
+            states.push(president);
+        }
+    }
+    const fd = fs.openSync('./temp/states.json', 'w');
+    fs.writeSync(fd, JSON.stringify(states));
+    fs.closeSync(fd);
+
+    // TODO: Write county data to counties.json
+}
+
+printCountiesCsv();
+printStatesCsv();
+printCandidatesCsv();
+printVotesCsv();
+printJson();
+
